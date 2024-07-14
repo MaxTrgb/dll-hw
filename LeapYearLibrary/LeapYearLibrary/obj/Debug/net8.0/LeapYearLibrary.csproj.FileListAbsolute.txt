@@ -1,0 +1,11 @@
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\bin\Debug\net8.0\LeapYearLibrary.deps.json
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\bin\Debug\net8.0\LeapYearLibrary.dll
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\bin\Debug\net8.0\LeapYearLibrary.pdb
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\LeapYearLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\LeapYearLibrary.AssemblyInfoInputs.cache
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\LeapYearLibrary.AssemblyInfo.cs
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\LeapYearLibrary.csproj.CoreCompileInputs.cache
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\LeapYearLibrary.dll
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\refint\LeapYearLibrary.dll
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\LeapYearLibrary.pdb
+D:\Study\sysProg\14.07.2024\LeapYearLibrary\LeapYearLibrary\obj\Debug\net8.0\ref\LeapYearLibrary.dll

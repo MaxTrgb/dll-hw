@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeapYearLibrary/1.0.0": {
+        "runtime": {
+          "LeapYearLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeapYearLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
