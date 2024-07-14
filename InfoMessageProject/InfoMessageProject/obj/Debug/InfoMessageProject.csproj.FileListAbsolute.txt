@@ -1,0 +1,10 @@
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\bin\Debug\InfoMessageProject.exe.config
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\bin\Debug\InfoMessageProject.exe
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\bin\Debug\InfoMessageProject.pdb
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\bin\Debug\InfoMessageLibrary.dll
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\bin\Debug\InfoMessageLibrary.pdb
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\obj\Debug\InfoMessageProject.csproj.AssemblyReference.cache
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\obj\Debug\InfoMessageProject.csproj.CoreCompileInputs.cache
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\obj\Debug\InfoMess.13639EEA.Up2Date
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\obj\Debug\InfoMessageProject.exe
+D:\Study\system programing\claswork\13.07.2024\InfoMessageProject\InfoMessageProject\obj\Debug\InfoMessageProject.pdb
